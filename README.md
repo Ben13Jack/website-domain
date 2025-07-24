@@ -143,7 +143,7 @@
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 3</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
-        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
+        <source src="https://www.youtube.com/watch?v=oa6rvUJlg7o" type="video/mp4"></video>
         <div class="card-body">
           <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
