@@ -118,8 +118,8 @@
 <div class="container mt-5">
   <div class="row g-4">
     <div class="col-md-4">
-      <div class="card h-100 text-center">
-        <button class="mt-3">Composition and Operations of Cells</button>
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
+        <button class="mt-3" style="width:100px;border-decoration:none;">Composition and Operations of Cells</button>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
@@ -161,7 +161,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
@@ -172,7 +172,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
