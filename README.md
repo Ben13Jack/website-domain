@@ -134,7 +134,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;">Neuronal communication is examined in this animated explanation, which shows how messages go between brain and nervous system nerve cells. It describes how signals are received by dendrites, integrated by the cell body, and carried by the axon. Neurotransmitter filled vesicles fuse with the presynaptic membrane when voltage-gated calcium channels open in response to the axon terminal synapse. For a neuron to respond, this dynamic is essential.</p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
