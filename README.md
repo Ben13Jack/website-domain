@@ -53,7 +53,7 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow">
   <div class="container">
-    <button style="border:none;border-radius: 5px;"><a class="navbar-brand" href="#"><span style="padding:5px;font-size:18px;color:rgb(59, 10, 53);">Cangulus</span></a></button>
+    <button style="border:none;border-radius: 5px;"><a class="navbar-brand" href="#"><span style="padding:5px;font-size:18px;color:rgba(51, 9, 237, 0.589);">Cangulus</span></a></button>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
