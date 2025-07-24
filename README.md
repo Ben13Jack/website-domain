@@ -123,7 +123,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p>The video begins by describing how cells are the smallest living units found in animals, emphasizing the unique characteristics of eukaryotic cells and their roles. First up is the nucleus, which contains genetic material and is the location of transcription, which is the process by which DNA is converted into mRNA for protein synthesis. When cells divide, chromatin condenses into chromosomes that are visible.</p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
