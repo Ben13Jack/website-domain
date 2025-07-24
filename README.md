@@ -7,10 +7,12 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
-  <link rel="icon" type="image/png" href="" />
+  <link rel="icon" type="image/png" href="internet-web-icon-in-flat-style-website-globe-sign-symbol-vector.jpg"/>
 
   <style>
-   
+    body {
+      background-color: hsla(97, 100%, 100%, 0.3);
+    }
     p {
       max-width: 100%;
       color: white;
@@ -46,6 +48,8 @@
   </style>
 </head>
 
+<body>
+
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow">
   <div class="container">
@@ -75,7 +79,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active text-center p-4">
-      <img src="der.jpg" alt="Slide 1">
+      <img src="brain(1).jfif" alt="Slide 1">
       <p style="color:rgb(51, 48, 53);text-align:justify">Blood's liquid component, plasma. It is a pale yellow, slightly sticky fluid that is mostly made up of water, as well as dissolved proteins such albumin, globulins, and fibrinogen, 
         as well as electrolytes, nutrients, hormones, waste products, and gases. Transporting nutrients like glucose and amino acids to tissues, plasma also removes waste materials for excretion, including urea and carbon dioxide. The proteins in plasma have vital functions in clotting, pH buffering, immunity via antibodies, and osmotic pressure, which is essential for preserving fluid balance between blood and tissues. Hormones and enzymes necessary for a number of body processes are also carried by plasma. Plasma aids in the body's thermoregulation by promoting the diffusion of heat, 
         plasma helps to repair wounds and avoid excessive blood loss by maintaining blood's 
@@ -84,7 +88,7 @@
         leukocytes, and platelets in their bodily tasks.</p>
     </div>
     <div class="carousel-item text-center p-4">
-      <img src="maxresdefault(1).jpg" alt="Slide 2">
+      <img src="der.jpg" alt="Slide 2">
       <p style="color:rgb(51, 48, 53);text-align:justify">The most prevalent cellular constituents in human blood, red blood cells, or erythrocytes, 
         are involved in the movement of breathing gasses throughout the body. 
         These cells can readily flex to fit into the microcirculation's small capillaries because of their biconcave shape, which boosts their surface area to volume ratio and promotes effective gas exchange.
@@ -93,7 +97,7 @@
         Each heme group in hemoglobin can bind one oxygen molecule.</p>
     </div>
     <div class="carousel-item text-center p-4">
-      <img src="brain(1).jfif" alt="Slide 3">
+      <img src="maxresdefault(1).jpg" alt="Slide 3">
       <p style="color:rgb(51, 48, 53);text-align:justify">A mutation in the gene that codes for hemoglobin's beta-globin chain causes hemoglobin C disease, 
         a hereditary blood condition. In particular, it results in hemoglobin C, an aberrant form of 
         the beta globin chain, where lysine is substituted for glutamic acid at position six. 
