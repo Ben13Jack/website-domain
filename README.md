@@ -97,7 +97,7 @@
         Each heme group in hemoglobin can bind one oxygen molecule.</p>
     </div>
     <div class="carousel-item text-center p-4">
-      <img src="d:\blog\Blogger Media Manager_ Ben Jack_files\brain(1).jfif" alt="Slide 3">
+      <img src="brain(1).jfif" alt="Slide 3">
       <p style="color:rgb(51, 48, 53);text-align:justify">A mutation in the gene that codes for hemoglobin's beta-globin chain causes hemoglobin C disease, 
         a hereditary blood condition. In particular, it results in hemoglobin C, an aberrant form of 
         the beta globin chain, where lysine is substituted for glutamic acid at position six. 
