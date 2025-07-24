@@ -79,7 +79,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active text-center p-4">
-      <img src="KCtZsg13QTGxirECKRt8-A.webp" alt="Slide 1">
+      <img src="desktop.jpg" alt="Slide 1">
       <p style="color:rgb(51, 48, 53);text-align:justify">Blood's liquid component, plasma. It is a pale yellow, slightly sticky fluid that is mostly made up of water, as well as dissolved proteins such albumin, globulins, and fibrinogen, 
         as well as electrolytes, nutrients, hormones, waste products, and gases. Transporting nutrients like glucose and amino acids to tissues, plasma also removes waste materials for excretion, including urea and carbon dioxide. The proteins in plasma have vital functions in clotting, pH buffering, immunity via antibodies, and osmotic pressure, which is essential for preserving fluid balance between blood and tissues. Hormones and enzymes necessary for a number of body processes are also carried by plasma. Plasma aids in the body's thermoregulation by promoting the diffusion of heat, 
         plasma helps to repair wounds and avoid excessive blood loss by maintaining blood's 
