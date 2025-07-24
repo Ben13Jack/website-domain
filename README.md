@@ -183,7 +183,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
@@ -199,7 +199,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
@@ -210,7 +210,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
@@ -221,7 +221,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;"></p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
