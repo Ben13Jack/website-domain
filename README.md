@@ -120,7 +120,7 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 1</h5>
-        <video width="150" height="100" controls class="rounded-circle mx-auto mt-3" alt="Image 1">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
@@ -131,7 +131,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 2</h5>
-        <img src="t1/face8.jpg" class="rounded-circle mx-auto mt-3" alt="Image 2">
+        <<video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -141,7 +142,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 3</h5>
-        <img src="https://via.placeholder.com/150" class="rounded-circle mx-auto mt-3" alt="Image 3">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -156,7 +158,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 1</h5>
-        <img src="t1/face5.jpg" class="rounded-circle mx-auto mt-3" alt="Image 1">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -166,7 +169,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 2</h5>
-        <img src="t1/face8.jpg" class="rounded-circle mx-auto mt-3" alt="Image 2">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -176,7 +180,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 3</h5>
-        <img src="https://via.placeholder.com/150" class="rounded-circle mx-auto mt-3" alt="Image 3">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -191,7 +196,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 1</h5>
-        <img src="t1/face5.jpg" class="rounded-circle mx-auto mt-3" alt="Image 1">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -201,7 +207,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 2</h5>
-        <img src="t1/face8.jpg" class="rounded-circle mx-auto mt-3" alt="Image 2">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
@@ -211,7 +218,8 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 3</h5>
-        <img src="https://via.placeholder.com/150" class="rounded-circle mx-auto mt-3" alt="Image 3">
+        <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
+        <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
           <a href="#"><i class="material-icons">forward</i></a>
