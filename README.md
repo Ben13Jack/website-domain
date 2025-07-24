@@ -123,7 +123,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">The video begins by describing how cells are the smallest living units found in animals, emphasizing the unique characteristics of eukaryotic cells and their roles. First up is the nucleus, which contains genetic material and is the location of transcription, which is the process by which DNA is converted into mRNA for protein synthesis. When cells divide, chromatin condenses into chromosomes that are visible.</p>
+          <p class="text-success" style="text-align:justify;">By emphasizing the nucleus, endoplasmic reticulum, Golgi apparatus, endosomes, peroxisomes, and lipid droplets, the video describes the composition and operations of cells. It draws attention to the nucleus as the location of chromatin condensation, transcription, and protein synthesis in the endoplasmic reticulum. Through vesicles covered with COPII proteins, proteins and lipids leave the ER and go to the Golgi apparatus. The video talks about lipid droplets and peroxisomes, as well as important scientific turning points like Schekman and Rothman's investigations and George Palade's autoradiography experiments.</p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
@@ -134,7 +134,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=hGDvvUNU-cw" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Neuronal communication is examined in this animated explanation, which shows how messages go between brain and nervous system nerve cells. It describes how signals are received by dendrites, integrated by the cell body, and carried by the axon. Neurotransmitter filled vesicles fuse with the presynaptic membrane when voltage-gated calcium channels open in response to the axon terminal synapse. For a neuron to respond, this dynamic is essential.</p>
+          <p class="text-success" style="text-align:justify;">Neuronal communication is examined in this animated explanation, which shows how messages go between brain and nervous system nerve cells. It describes how signals are received by dendrites, integrated by the cell body, and carried by the axon. Neurotransmitter filled vesicles fuse with the presynaptic membrane when voltage-gated calcium channels open in response to the axon terminal synapse. For a neuron to respond, this dynamic is essential.</p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
