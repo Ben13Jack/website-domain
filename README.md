@@ -129,7 +129,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card h-100 text-center">
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
         <h5 class="mt-3">Animated Explanation of Neuronal Communication</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=hGDvvUNU-cw" type="video/mp4"></video>
@@ -140,7 +140,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card h-100 text-center">
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
         <h5 class="mt-3">Understanding Neuron Structure and Action Potential</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=oa6rvUJlg7o" type="video/mp4"></video>
@@ -194,7 +194,7 @@
 <div class="container mt-5">
   <div class="row g-4">
     <div class="col-md-4">
-      <div class="card h-100 text-center">
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
         <h5 class="mt-3">Heading 1</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
@@ -205,7 +205,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card h-100 text-center">
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
         <h5 class="mt-3">Heading 2</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
@@ -216,7 +216,7 @@
       </div>
     </div>
     <div class="col-md-4">
-      <div class="card h-100 text-center">
+      <div class="card h-100 text-center" style="box-shadow:0px 10px 18px rgba(0,0,0,0.2);">
         <h5 class="mt-3">Heading 3</h5>
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
