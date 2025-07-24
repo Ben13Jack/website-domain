@@ -124,6 +124,16 @@
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p class="text-success" style="text-align:justify;">By emphasizing the nucleus, endoplasmic reticulum, Golgi apparatus, endosomes, peroxisomes, and lipid droplets, the video describes the composition and operations of cells. It draws attention to the nucleus as the location of chromatin condensation, transcription, and protein synthesis in the endoplasmic reticulum. Through vesicles covered with COPII proteins, proteins and lipids leave the ER and go to the Golgi apparatus. The video talks about lipid droplets and peroxisomes, as well as important scientific turning points like Schekman and Rothman's investigations and George Palade's autoradiography experiments.</p>
+           <div class="row d-flex">
+            <div class="card-view" style="background-color:rgba(203, 203, 245, 0.397);">
+            <video width="80" height="80" controls class="mx-auto mt-3 ml-3 mr-3 mb-3 p-1" alt="Image 1">
+            <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
+            <video width="80" height="80" controls class="mx-auto mt-3 ml-3 mr-3 mb-3 p-1" alt="Image 1">
+            <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
+            <video width="80" height="80" controls class="mx-auto mt-3 ml-3 mr-3 mb-3 p-1" alt="Image 1">
+            <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
+            </div>
+          </div>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
