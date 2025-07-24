@@ -10,9 +10,7 @@
   <link rel="icon" type="image/png" href="" />
 
   <style>
-    body {
-      background-color: hsla(97, 100%, 100%, 0.3);
-    }
+   
     p {
       max-width: 100%;
       color: white;
