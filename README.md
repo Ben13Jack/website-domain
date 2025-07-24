@@ -150,6 +150,41 @@
   </div>
 </div>
 
+<div class="container mt-5">
+  <div class="row g-4">
+    <div class="col-md-4">
+      <div class="card h-100 text-center">
+        <h5 class="mt-3">Heading 1</h5>
+        <img src="t1/face5.jpg" class="rounded-circle mx-auto mt-3" alt="Image 1">
+        <div class="card-body">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <a href="#"><i class="material-icons">forward</i></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card h-100 text-center">
+        <h5 class="mt-3">Heading 2</h5>
+        <img src="t1/face8.jpg" class="rounded-circle mx-auto mt-3" alt="Image 2">
+        <div class="card-body">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <a href="#"><i class="material-icons">forward</i></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card h-100 text-center">
+        <h5 class="mt-3">Heading 3</h5>
+        <img src="https://via.placeholder.com/150" class="rounded-circle mx-auto mt-3" alt="Image 3">
+        <div class="card-body">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <a href="#"><i class="material-icons">forward</i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Footer Card -->
 <div class="container mt-5 shadow">
   <div class="card">
