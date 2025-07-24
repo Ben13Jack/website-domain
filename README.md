@@ -88,7 +88,7 @@
         leukocytes, and platelets in their bodily tasks.</p>
     </div>
     <div class="carousel-item text-center p-4">
-      <img src="der.jpg" alt="Slide 2">
+      <img src="desktop.jpg" alt="Slide 2">
       <p style="color:rgb(51, 48, 53);text-align:justify">The most prevalent cellular constituents in human blood, red blood cells, or erythrocytes, 
         are involved in the movement of breathing gasses throughout the body. 
         These cells can readily flex to fit into the microcirculation's small capillaries because of their biconcave shape, which boosts their surface area to volume ratio and promotes effective gas exchange.
