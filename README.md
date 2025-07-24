@@ -120,7 +120,7 @@
     <div class="col-md-4">
       <div class="card h-100 text-center">
         <h5 class="mt-3">Heading 1</h5>
-        <video width="640" height="350" controls class="rounded-circle mx-auto mt-3" alt="Image 1">
+        <video width="150" height="100" controls class="rounded-circle mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=URUJD5NEXC8&t=230s" type="video/mp4"></video>
         <div class="card-body">
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
