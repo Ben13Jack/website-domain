@@ -145,7 +145,7 @@
         <video width="250" height="200" controls class="mx-auto mt-3" alt="Image 1">
         <source src="https://www.youtube.com/watch?v=oa6rvUJlg7o" type="video/mp4"></video>
         <div class="card-body">
-          <p class="text-success"style="text-align:justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.</p>
+          <p class="text-success"style="text-align:justify;">The video introduces the four key parts of a neuron: dendrites, cell body, axon, and axon terminal. The neuron's action potential depends on the strength of incoming stimuli. At rest, the neuron has a distinct ionic environment, with sodium ions concentrated outside and potassium ions abundant inside. The sodium potassium pump maintains ionic balance, contributing to the brain's energy consumption. When stimulation brings the membrane potential to the threshold, sodium channels open, causing rapid depolarization and potassium channels repolarization.</p>
           <a href="#"><i class="material-icons">forward</i></a>
         </div>
       </div>
