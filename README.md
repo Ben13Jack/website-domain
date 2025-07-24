@@ -84,7 +84,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active text-center p-4">
-      <img src="d:\blog\Blogger Media Manager_ Ben Jack_files\maxresdefault(1).jpg" alt="Slide 1">
+      <img src="der.jpg" alt="Slide 1">
       <p style="color:rgb(51, 48, 53);text-align:justify">Blood's liquid component, plasma. It is a pale yellow, slightly sticky fluid that is mostly made up of water, as well as dissolved proteins such albumin, globulins, and fibrinogen, 
         as well as electrolytes, nutrients, hormones, waste products, and gases. Transporting nutrients like glucose and amino acids to tissues, plasma also removes waste materials for excretion, including urea and carbon dioxide. The proteins in plasma have vital functions in clotting, pH buffering, immunity via antibodies, and osmotic pressure, which is essential for preserving fluid balance between blood and tissues. Hormones and enzymes necessary for a number of body processes are also carried by plasma. Plasma aids in the body's thermoregulation by promoting the diffusion of heat, 
         plasma helps to repair wounds and avoid excessive blood loss by maintaining blood's 
@@ -93,7 +93,7 @@
         leukocytes, and platelets in their bodily tasks.</p>
     </div>
     <div class="carousel-item text-center p-4">
-      <img src="d:\blog\Blogger Media Manager_ Ben Jack_files\Neuroscience-and-brain-function2-1920x1096(1).jpg" alt="Slide 2">
+      <img src="maxresdefault(1).jpg" alt="Slide 2">
       <p style="color:rgb(51, 48, 53);text-align:justify">The most prevalent cellular constituents in human blood, red blood cells, or erythrocytes, 
         are involved in the movement of breathing gasses throughout the body. 
         These cells can readily flex to fit into the microcirculation's small capillaries because of their biconcave shape, which boosts their surface area to volume ratio and promotes effective gas exchange.
